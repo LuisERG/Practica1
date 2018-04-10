@@ -1,4 +1,9 @@
-x<-seq(5, -1, by = -0.3)     # matches 'end'
+# Nombre: Luis Eduardo Ramos Grados 20162210E
+# Respuesta1: Manejo de Arrays
+
+x<-seq(5, -1, by = -0.3)
+x
+
 x<-rev(x)
 x
 
