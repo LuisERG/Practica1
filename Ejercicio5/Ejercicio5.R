@@ -29,6 +29,7 @@ mtext("Presion de vapor de Mercurio \ncomo una funcion de la Temperatura",
       side=3, line=3, font=2)
 
 
+#Graficando con grid
 #Inciamos el paquete "grid" con library()
 library(package = "grid")
 #Creamos el nuevo espacio para graficas en grid
